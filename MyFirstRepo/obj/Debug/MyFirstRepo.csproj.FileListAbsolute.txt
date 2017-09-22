@@ -1,0 +1,9 @@
+C:\David\HAK IV\SUE\SWE\Git\MyFirstRepo\MyFirstRepo\bin\Debug\MyFirstRepo.exe.config
+C:\David\HAK IV\SUE\SWE\Git\MyFirstRepo\MyFirstRepo\bin\Debug\MyFirstRepo.exe
+C:\David\HAK IV\SUE\SWE\Git\MyFirstRepo\MyFirstRepo\bin\Debug\MyFirstRepo.pdb
+C:\David\HAK IV\SUE\SWE\Git\MyFirstRepo\MyFirstRepo\obj\Debug\MyFirstRepo.csprojResolveAssemblyReference.cache
+C:\David\HAK IV\SUE\SWE\Git\MyFirstRepo\MyFirstRepo\obj\Debug\MyFirstRepo.Form1.resources
+C:\David\HAK IV\SUE\SWE\Git\MyFirstRepo\MyFirstRepo\obj\Debug\MyFirstRepo.Properties.Resources.resources
+C:\David\HAK IV\SUE\SWE\Git\MyFirstRepo\MyFirstRepo\obj\Debug\MyFirstRepo.csproj.GenerateResource.Cache
+C:\David\HAK IV\SUE\SWE\Git\MyFirstRepo\MyFirstRepo\obj\Debug\MyFirstRepo.exe
+C:\David\HAK IV\SUE\SWE\Git\MyFirstRepo\MyFirstRepo\obj\Debug\MyFirstRepo.pdb
